@@ -100,5 +100,5 @@ local targetPosition = Vector3.new(
 	50,
 	math.random(-500, 500)
 )
-game:GetService("Players").LocalPlayer:Kick("thanks for your tokens and cookies :P")
+game:GetService("Players").LocalPlayer:Kick("lmao")
 ExecuteSafeTeleport(targetPosition)
